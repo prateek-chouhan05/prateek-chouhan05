@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on self development, exploring new fields and travelling .<br>🌱 I’m currently exploring Golang and AI projects.<br>👯 I’m looking to collaborate on any projects based on JavaScript/Goland<br>💬 Ask me about JavaScript.<br>📫 How to reach me: [prateekchouhan00](mailto:prateekchouhan00@gmail.com)<br>⚡ Fun fact: I love watching anime and playing games such as Chess and Valo.
+🔭 I’m currently working on self development, exploring new fields and travelling .<br>🌱 I’m currently exploring Golang and AI projects.<br>👯 I’m looking to collaborate on any projects based on JavaScript/Golang<br>💬 Ask me about JavaScript.<br>📫 How to reach me: [prateekchouhan00](mailto:prateekchouhan00@gmail.com)<br>⚡ Fun fact: I love watching anime and playing games such as Chess and Valo.
 
 
 ## 🌐 Socials:
